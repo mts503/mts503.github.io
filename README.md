@@ -9,19 +9,9 @@
 
 [//]: # ( [Link](url); ![Image](src) )
 
-## Welcome to GitHub Pages
+### Ab-initio methods
+Ab-initio calculations involve first-principles (or pseudo-first-principles) methods to calculate properties, typically of static molecules/systems. They can be used to predict molecular properties such structural energies, spectral observables (UV-vis, IR, Raman, NMR etc.). The methods are also well suited to calculating reaction pathways enabling, for example, the prediction or rationalisation of reaction products.
 
-Text
+### Classical methods
+Classical use quite drastic (but undoubtedly successful) assumptions to enable the simulation of "large" systems, i.e. systems comprising <i>ca</i>. 1000 atoms or more. Their relatie simplicity enables  systems to be simulated over time. This combination provides a means of calculating bulk properties (density, etc.) as well as calculating time-dependent properties (diffusion, etc.). Furthermore, external potentials may readily be applied to simulate properties such as tensile strength and to simulate rare events.
 
-```markdown
-Syntax highlighted code block
-```
-
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mts503/mts503.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
