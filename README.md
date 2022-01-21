@@ -18,7 +18,12 @@ Classical methods use quite drastic (but undoubtedly successful) assumptions to 
 
 ## Current and previous research
 ### Modelling de Vries behaviour in liquid crystals
+_Contributors: Kristian Poll_
 
 ### Rationalising reactivity of bioorthogonal reagents
+_In collaboration with Dr Valery Kozhevnikov_
+_Contributors: Connor Atess, Numair Zaman, Aminah Shafiq_
 
 ### Calculating ligand binding in lanthanide extraction
+_In collaboration with Dr Frank Lewis_
+_Contributors: Anthony Sayer, Anya Nelson, Sam Taylor, Lauren Gardiner_
