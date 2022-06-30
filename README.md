@@ -15,9 +15,9 @@ _Contributors: Kristian Poll_
 
 [An insight into de Vries behaviour of smectic liquid crystals from atomistic molecular dynamics simulations<br>_J. Mater. Chem. C_, 2020,**8**, 13040-13052](https://doi.org/10.1039/D0TC02898C) 
 
-<img align="center" width="300" src="https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D0TC02898C&imageInfo.ImageIdentifier.Year=2020">
-
-![Image](https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D0TC02898C&imageInfo.ImageIdentifier.Year=2020)
+<p align="center">
+<img width="300" src="https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D0TC02898C&imageInfo.ImageIdentifier.Year=2020">
+</p>
 
 ### Rationalising reactivity of bioorthogonal reagents
 _In collaboration with Dr Valery Kozhevnikov_
