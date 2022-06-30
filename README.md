@@ -13,8 +13,7 @@
 ### Modelling de Vries behaviour in liquid crystals
 _Contributors: Kristian Poll_
 
-An insight into de Vries behaviour of smectic liquid crystals from atomistic molecular dynamics simulations
-[Link](https://doi.org/10.1039/D0TC02898C)
+[An insight into de Vries behaviour of smectic liquid crystals from atomistic molecular dynamics simulations](https://doi.org/10.1039/D0TC02898C)
 ![Image](https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D0TC02898C&imageInfo.ImageIdentifier.Year=2020)
 
 ### Rationalising reactivity of bioorthogonal reagents
