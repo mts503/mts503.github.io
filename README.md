@@ -13,6 +13,8 @@
 ### Modelling de Vries behaviour in liquid crystals
 _Contributors: Kristian Poll_
 
+Ferroelectric SmC* liquid crystals have the potential to be used widely in future display technologies, but the shrinkage they typically exhibit on tilting at the SmA/SmC transition is particularly problematic. A sub-class of these materials exhibit "de Vries" behaviour, in which no such shrinkage is observed, but the behaviour is poorly understood. We have used fully atomistic molecular dynamics simulations to gain an understanding of these intriguing materials.
+
 [An insight into de Vries behaviour of smectic liquid crystals from atomistic molecular dynamics simulations<br>_J. Mater. Chem. C_, 2020,**8**, 13040-13052](https://doi.org/10.1039/D0TC02898C) 
 
 <p align="center">
