@@ -13,6 +13,8 @@
 ### Modelling de Vries behaviour in liquid crystals
 _Contributors: Kristian Poll_
 
+![Image](https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D0TC02898C&imageInfo.ImageIdentifier.Year=2020)
+
 ### Rationalising reactivity of bioorthogonal reagents
 _In collaboration with Dr Valery Kozhevnikov_
 
@@ -22,6 +24,9 @@ _Contributors: Connor Atess, Numair Zaman, Aminah Shafiq_
 _In collaboration with Dr Frank Lewis_
 
 _Contributors: Anthony Sayer, Anya Nelson, Sam Taylor, Lauren Gardiner_
+
+### Elucidating structure-property relationships in dye-dope liquid crystals
+
 
 ## Methods
 ### Ab-initio methods
