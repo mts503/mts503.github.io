@@ -13,9 +13,9 @@
 
 <img width="300" src="https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D1MA00714A&imageInfo.ImageIdentifier.Year=2022" style="float: right">
   
-I am currently a Senior Lecturer in Computational Chemistry in the Department of Applied Sciences.
+I am currently a Senior Lecturer in Computational Chemistry in the Department of Applied Sciences at Northumbria University.<br>
 
-I graduated with an MChem degree from the University of York in 2011, where I also obtained my PhD. I was appointed a Postdoctoral Research Associate with the groups of Dr. John Moore and Prof. John Goodby in 2015, working on combining experimental and computational studies of ordered systems, primarily dye-doped liquid crystals, in order to develop design methods to aid in identifying synthetic targets. I was appointed to my current role at Northumbria University in 2017.
+I obtained my PhD from the University of York in 2015 where I was subsequently appointed a Postdoctoral Research Associate with the groups of Dr. John Moore and Prof. John Goodby in 2015, working on combining experimental and computational studies of ordered systems, primarily dye-doped liquid crystals, in order to develop design methods to aid in identifying synthetic targets. I was appointed to my current role at Northumbria University in 2017.
   
 </div>
 
