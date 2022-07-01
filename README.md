@@ -36,10 +36,12 @@ _In collaboration with Dr Valery Kozhevnikov_
 
 _Contributors: Connor Atess, Numair Zaman, Aminah Shafiq_
 
+Bioorthogonal reactions are those that take place <em>in-vivo</em> without interfering with biological processes. Designing such reagents and understanding trends in reactivity can be aided by the use of ab-initio methods to calculate transition state energies, transition state conformations, frontier orbital energies etc.
+
 <details>
   <summary>Papers</summary>
 
-  <a href ="https://doi.org/10.1039/C9CC06828G">Iridium(iii) complexes of 1,2,4-triazines as potential bioorthogonal reagents: metal coordination facilitates luminogenic reaction with strained cyclooctynes<br><em>Chem. Commun.</em>, 2019, <strong>55</strong> , 14283-14286]</a> 
+  <a href ="https://doi.org/10.1039/C9CC06828G">Iridium(iii) complexes of 1,2,4-triazines as potential bioorthogonal reagents: metal coordination facilitates luminogenic reaction with strained cyclooctynes<br><em>Chem. Commun.</em>, 2019, <strong>55</strong> , 14283-14286</a> 
 
   <p align="center">
   <img width="300" src="https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=C9CC06828G&imageInfo.ImageIdentifier.Year=2019">
@@ -50,6 +52,8 @@ _Contributors: Connor Atess, Numair Zaman, Aminah Shafiq_
 _In collaboration with Dr Frank Lewis_
 
 _Contributors: Anthony Sayer, Anya Nelson, Sam Taylor, Lauren Gardiner_
+
+Design of ligands that selectively bind actinides over lanthanides is a challenging problem. Use of ab-initio methods to calculate binding energies can aid sythetic chemists in understanding ligand behaviour and in designing new, improved materials.
 
 <details>
   <summary>Papers</summary>
