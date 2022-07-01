@@ -24,7 +24,7 @@ Ferroelectric SmC* liquid crystals have the potential to be used widely in futur
   <img width="300" src="https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D0TC02898C&imageInfo.ImageIdentifier.Year=2020">
 </p>
 
-[Sub-layer rationale of anomalous layer-shrinkage from atomistic simulations of a fluorinated mesogen<br>_Mater. Adv._, 2022,**3** , 1212-1223](https://doi.org/10.1039/D1MA00714A) 
+<a href ="https://doi.org/10.1039/D1MA00714A">Sub-layer rationale of anomalous layer-shrinkage from atomistic simulations of a fluorinated mesogen<br>_Mater. Adv._, 2022,**3** , 1212-1223</a>
 
 <p align="center">
 <img width="300" src="https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D1MA00714A&imageInfo.ImageIdentifier.Year=2022">
@@ -54,6 +54,8 @@ _Contributors: Anthony Sayer, Anya Nelson, Sam Taylor, Lauren Gardiner_
 Exploring the Subtle Effect of Aliphatic Ring Size on Minor Actinide-Extraction Properties and Metal Ion Speciation in Bis-1,2,4-Triazine Ligands
 
 https://doi.org/10.1002/chem.201903685
+
+Chem. Eur. J., 2020, 26, 428-437
 
 https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/ce3c2eea-b92a-44a5-8c1b-8763b35e2a5a/chem201903685-toc-0001-m.jpg
 
