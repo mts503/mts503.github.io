@@ -75,7 +75,7 @@ Liquid-crystal dye mixtures have many potential applications including smart win
 
   <a href ="https://doi.org/10.1080/02678292.2017.1333639">
     Guest–host systems containing anthraquinone dyes with multiple visible transitions giving positive and negative dichroic order parameters: an assessment of principal molecular axes and computational methods
-    <br><em>Liq. Cryst.</em>, 2017, <strong>44></strong>, 2029 - 2045</a> 
+    <br><em>Liq. Cryst.</em>, 2017, <strong>44</strong>, 2029-2045</a> 
 
   <p align="center">
   <img width="300" src="https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/tlct20/2017/tlct20.v044.i12-13/02678292.2017.1333639/20171116/images/medium/tlct_a_1333639_uf0001_oc.jpg">
@@ -86,15 +86,15 @@ Liquid-crystal dye mixtures have many potential applications including smart win
     <br><em>Chem. Eur. J.</em>, 2017, <strong>23</strong> , 5090-5103</a> 
 
   <p align="center">
-  <img width="300" src="">
+  <img width="300" src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/5e8c6e66-79af-4c2e-9c76-dc034d92cb58/chem201700055-toc-0001-m.jpg">
   </p>    
     
-  <a href ="">
-    
-    <br></a> 
+  <a href ="https://doi.org/10.1039/C6CP05979A">
+    Principal molecular axis and transition dipole moment orientations in liquid crystal systems: an assessment based on studies of guest anthraquinone dyes in a nematic host
+    <br><em>Phys. Chem. Chem. Phys.</em>, 2017, <strong>19</strong>, 813-827</a> 
 
   <p align="center">
-  <img width="300" src="">
+  <img width="300" src="https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=C6CP05979A&imageInfo.ImageIdentifier.Year=2017">
   </p>
  
   <a href ="">
