@@ -75,15 +75,15 @@ Liquid-crystal dye mixtures have many potential applications including smart win
 
   <a href ="https://doi.org/10.1080/02678292.2017.1333639">
     Guest–host systems containing anthraquinone dyes with multiple visible transitions giving positive and negative dichroic order parameters: an assessment of principal molecular axes and computational methods
-    <br><em>Liq. Cryst.</em>, 2017, <strong>44>/strong>, 2029 - 2045</a> 
+    <br><em>Liq. Cryst.</em>, 2017, <strong>44></strong>, 2029 - 2045</a> 
 
   <p align="center">
   <img width="300" src="https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/tlct20/2017/tlct20.v044.i12-13/02678292.2017.1333639/20171116/images/medium/tlct_a_1333639_uf0001_oc.jpg">
   </p>
     
-  <a href ="">
-    
-    <br></a> 
+  <a href ="https://doi.org/10.1002/chem.201700055">
+    Photoswitching of Dihydroazulene Derivatives in Liquid-Crystalline Host Systems
+    <br><em>Chem. Eur. J.</em>, 2017, <strong>23</strong> , 5090-5103</a> 
 
   <p align="center">
   <img width="300" src="">
