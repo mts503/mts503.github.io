@@ -18,13 +18,13 @@ Ferroelectric SmC* liquid crystals have the potential to be used widely in futur
 <details>
   <summary>Papers</summary>
 
-  <a href = "https://doi.org/10.1039/D0TC02898C">An insight into de Vries behaviour of smectic liquid crystals from atomistic molecular dynamics simulations<br><em>J. Mater. Chem. C</em>, 2020,<strong>>8</strong> , 13040-13052</a> 
+  <a href = "https://doi.org/10.1039/D0TC02898C">An insight into de Vries behaviour of smectic liquid crystals from atomistic molecular dynamics simulations<br><em>J. Mater. Chem. C</em>, 2020 ,<strong>8</strong> , 13040-13052</a> 
 
   <p align="center">
   <img width="300" src="https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D0TC02898C&imageInfo.ImageIdentifier.Year=2020">
 </p>
 
-<a href ="https://doi.org/10.1039/D1MA00714A">Sub-layer rationale of anomalous layer-shrinkage from atomistic simulations of a fluorinated mesogen<br>_Mater. Adv._, 2022,**3** , 1212-1223</a>
+<a href ="https://doi.org/10.1039/D1MA00714A">Sub-layer rationale of anomalous layer-shrinkage from atomistic simulations of a fluorinated mesogen<br><em>Mater. Adv.</em>, 2022, <strong>3</strong>, 1212-1223</a>
 
 <p align="center">
 <img width="300" src="https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D1MA00714A&imageInfo.ImageIdentifier.Year=2022">
@@ -39,7 +39,7 @@ _Contributors: Connor Atess, Numair Zaman, Aminah Shafiq_
 <details>
   <summary>Papers</summary>
 
-  <a href ="https://doi.org/10.1039/C9CC06828G">Iridium(iii) complexes of 1,2,4-triazines as potential bioorthogonal reagents: metal coordination facilitates luminogenic reaction with strained cyclooctynes<br>_Chem. Commun._, 2019,**55** , 14283-14286]</a> 
+  <a href ="https://doi.org/10.1039/C9CC06828G">Iridium(iii) complexes of 1,2,4-triazines as potential bioorthogonal reagents: metal coordination facilitates luminogenic reaction with strained cyclooctynes<br><em>Chem. Commun.</em>, 2019, <strong>55</strong> , 14283-14286]</a> 
 
   <p align="center">
   <img width="300" src="https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=C9CC06828G&imageInfo.ImageIdentifier.Year=2019">
@@ -54,7 +54,7 @@ _Contributors: Anthony Sayer, Anya Nelson, Sam Taylor, Lauren Gardiner_
 <details>
   <summary>Papers</summary>
 
-  <a href ="https://doi.org/10.1002/chem.201903685">Exploring the Subtle Effect of Aliphatic Ring Size on Minor Actinide-Extraction Properties and Metal Ion Speciation in Bis-1,2,4-Triazine Ligands<br>Chem. Eur. J., 2020, 26, 428-437</a> 
+  <a href ="https://doi.org/10.1002/chem.201903685">Exploring the Subtle Effect of Aliphatic Ring Size on Minor Actinide-Extraction Properties and Metal Ion Speciation in Bis-1,2,4-Triazine Ligands<br><em>Chem. Eur. J.</em>, 2020, <strong>26</strong> , 428-437</a> 
 
   <p align="center">
   <img width="300" src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/ce3c2eea-b92a-44a5-8c1b-8763b35e2a5a/chem201903685-toc-0001-m.jpg">
