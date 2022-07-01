@@ -39,7 +39,7 @@ _Contributors: Connor Atess, Numair Zaman, Aminah Shafiq_
 <details>
   <summary>Papers</summary>
 
-  [Iridium(iii) complexes of 1,2,4-triazines as potential bioorthogonal reagents: metal coordination facilitates luminogenic reaction with strained cyclooctynes<br>_Chem. Commun._, 2019,**55** , 14283-14286](https://doi.org/10.1039/C9CC06828G) 
+  <a href ="https://doi.org/10.1039/C9CC06828G">Iridium(iii) complexes of 1,2,4-triazines as potential bioorthogonal reagents: metal coordination facilitates luminogenic reaction with strained cyclooctynes<br>_Chem. Commun._, 2019,**55** , 14283-14286]</a> 
 
   <p align="center">
   <img width="300" src="https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=C9CC06828G&imageInfo.ImageIdentifier.Year=2019">
@@ -51,21 +51,19 @@ _In collaboration with Dr Frank Lewis_
 
 _Contributors: Anthony Sayer, Anya Nelson, Sam Taylor, Lauren Gardiner_
 
-Exploring the Subtle Effect of Aliphatic Ring Size on Minor Actinide-Extraction Properties and Metal Ion Speciation in Bis-1,2,4-Triazine Ligands
+<details>
+  <summary>Papers</summary>
 
-https://doi.org/10.1002/chem.201903685
+  <a href ="https://doi.org/10.1002/chem.201903685">Exploring the Subtle Effect of Aliphatic Ring Size on Minor Actinide-Extraction Properties and Metal Ion Speciation in Bis-1,2,4-Triazine Ligands<br>Chem. Eur. J., 2020, 26, 428-437</a> 
 
-Chem. Eur. J., 2020, 26, 428-437
+  <p align="center">
+  <img width="300" src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/ce3c2eea-b92a-44a5-8c1b-8763b35e2a5a/chem201903685-toc-0001-m.jpg">
+  </p>
+</details>
 
-https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/ce3c2eea-b92a-44a5-8c1b-8763b35e2a5a/chem201903685-toc-0001-m.jpg
 
 ### Elucidating structure-property relationships in dye-dope liquid crystals
 
-<details>
-  <summary>Papers</summary>
-  
-  
-</details>
 
 ## Methods
 ### Ab-initio methods
