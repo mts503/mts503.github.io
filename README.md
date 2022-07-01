@@ -18,7 +18,7 @@ Ferroelectric SmC* liquid crystals have the potential to be used widely in futur
 <details>
   <summary>Papers</summary>
 
-  [An insight into de Vries behaviour of smectic liquid crystals from atomistic molecular dynamics simulations<br>_J. Mater. Chem. C_, 2020,**8** , 13040-13052](https://doi.org/10.1039/D0TC02898C) 
+  <a href = https://doi.org/10.1039/D0TC02898C>An insight into de Vries behaviour of smectic liquid crystals from atomistic molecular dynamics simulations<br><i>J. Mater. Chem. C</i>, 2020,<b>8</b> , 13040-13052</a> 
 
   <p align="center">
   <img width="300" src="https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D0TC02898C&imageInfo.ImageIdentifier.Year=2020">
