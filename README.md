@@ -8,14 +8,6 @@
 <!--[//]: # (**Bold**; _Italic_; `Code`)-->
 
 <!--[//]: # ( [Link](url); ![Image](src) )-->
-<table style="width: 100%; border: none; text-align: right">
-  <tr>
-    <td>1
-    </td>
-    <td>2
-    </td>
-  </tr>
- </table>
   
 <div>
   <img width="300" src="https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D1MA00714A&imageInfo.ImageIdentifier.Year=2022" style="float: right">
