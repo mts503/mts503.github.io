@@ -15,10 +15,13 @@ _Contributors: Kristian Poll_
 
 Ferroelectric SmC* liquid crystals have the potential to be used widely in future display technologies, but the shrinkage they typically exhibit on tilting at the SmA/SmC transition is particularly problematic. A sub-class of these materials exhibit "de Vries" behaviour, in which no such shrinkage is observed, but the behaviour is poorly understood. We have used fully atomistic molecular dynamics simulations to gain an understanding of these intriguing materials.
 
-[An insight into de Vries behaviour of smectic liquid crystals from atomistic molecular dynamics simulations<br>_J. Mater. Chem. C_, 2020,**8** , 13040-13052](https://doi.org/10.1039/D0TC02898C) 
+<details>
+  <summary>Papers</summary>
 
-<p align="center">
-<img width="300" src="https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D0TC02898C&imageInfo.ImageIdentifier.Year=2020">
+  [An insight into de Vries behaviour of smectic liquid crystals from atomistic molecular dynamics simulations<br>_J. Mater. Chem. C_, 2020,**8** , 13040-13052](https://doi.org/10.1039/D0TC02898C) 
+
+  <p align="center">
+  <img width="300" src="https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D0TC02898C&imageInfo.ImageIdentifier.Year=2020">
 </p>
 
 [Sub-layer rationale of anomalous layer-shrinkage from atomistic simulations of a fluorinated mesogen<br>_Mater. Adv._, 2022,**3** , 1212-1223](https://doi.org/10.1039/D1MA00714A) 
@@ -26,6 +29,7 @@ Ferroelectric SmC* liquid crystals have the potential to be used widely in futur
 <p align="center">
 <img width="300" src="https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D1MA00714A&imageInfo.ImageIdentifier.Year=2022">
 </p>
+</details>
 
 ### Rationalising reactivity of bioorthogonal reagents
 _In collaboration with Dr Valery Kozhevnikov_
