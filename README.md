@@ -11,7 +11,7 @@
   
 <div>
 
-<img width="150" src="https://northumbria-cdn.azureedge.net/-/media/people/staff/departments/applied-sciences/mark-sims.jpg?modified=20181029141931" style="float: right">
+<img width="200" src="https://northumbria-cdn.azureedge.net/-/media/people/staff/departments/applied-sciences/mark-sims.jpg?modified=20181029141931" style="float: right">
   
 I am currently a Senior Lecturer in Computational Chemistry in the Department of Applied Sciences at Northumbria University.<br>
 
