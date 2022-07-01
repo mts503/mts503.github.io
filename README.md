@@ -36,6 +36,16 @@ _In collaboration with Dr Valery Kozhevnikov_
 
 _Contributors: Connor Atess, Numair Zaman, Aminah Shafiq_
 
+<details>
+  <summary>Papers</summary>
+
+  [Iridium(iii) complexes of 1,2,4-triazines as potential bioorthogonal reagents: metal coordination facilitates luminogenic reaction with strained cyclooctynes<br>_Chem. Commun._, 2019,**55** , 14283-14286](https://doi.org/10.1039/C9CC06828G) 
+
+  <p align="center">
+  <img width="300" src="https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=C9CC06828G&imageInfo.ImageIdentifier.Year=2019">
+  </p>
+</details>
+
 ### Calculating ligand binding in lanthanide extraction
 _In collaboration with Dr Frank Lewis_
 
