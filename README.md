@@ -8,6 +8,16 @@
 <!--[//]: # (**Bold**; _Italic_; `Code`)-->
 
 <!--[//]: # ( [Link](url); ![Image](src) )-->
+<table style="width: 100%">
+  <tr>
+    <td>1
+    </td>
+    <td>2
+    </td>
+  </tr>
+ </table>
+  
+
 
 ## Current and previous research
 ### Modelling de Vries behaviour in liquid crystals
