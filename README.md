@@ -131,6 +131,31 @@ Liquid-crystal dye mixtures have many potential applications including smart win
   </p>
 </details>
 
+### Quantifying and understanding in self-organising systems using x-ray scattering
+
+The quantification of alignment in self-organising systems is often not straightforward. X-ray scattering theoretically provides significantly more information than many other methods, but data processing can lead to significant errors that some of our work has addressed. Subtle changes in molecular structure can heavily influence the molecular organisation in liquid crystals; a combinination of x-ray scattering experiments with classical simulations is a powerful tool with which such influences can be quantified and understood at a molecular and sub-molecular level.
+
+<details>
+  <summary>Papers</summary>
+
+  <a href ="https://doi.org/10.1039/C9SM01527B">
+    Shape segregation in molecular organisation: a combined X-ray scattering and molecular dynamics study of smectic liquid crystals
+    <br><em>Soft Matter</em>, 2019, <strong>15</strong>, 7722-7732</a> 
+
+  <p align="center">
+  <img width="300" src="https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=C9SM01527B&imageInfo.ImageIdentifier.Year=2019">
+  </p>
+  
+  <a href ="https://doi.org/10.1080/02678292.2018.1455227">
+    Considerations in the determination of orientational order parameters from X-ray scattering experiments
+    <br><em>Liq. Cryst.</em>, 2017, <strong>46</strong>, 11-24</a> 
+
+  <p align="center">
+  <img width="300" src="https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/tlct20/2019/tlct20.v046.i01/02678292.2018.1455227/20190218/images/medium/tlct_a_1455227_uf0001_b.gif">
+  </p>
+
+</details>
+  
 <!--
   <a href ="">
     
