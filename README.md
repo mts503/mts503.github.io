@@ -18,17 +18,18 @@ Ferroelectric SmC* liquid crystals have the potential to be used widely in futur
 <details>
   <summary>Papers</summary>
 
+  <a href ="https://doi.org/10.1039/D1MA00714A">Sub-layer rationale of anomalous layer-shrinkage from atomistic simulations of a fluorinated mesogen<br><em>Mater. Adv.</em>, 2022, <strong>3</strong>, 1212-1223</a>
+
+  <p align="center">
+  <img width="300" src="https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D1MA00714A&imageInfo.ImageIdentifier.Year=2022">
+  </p>  
+  
   <a href = "https://doi.org/10.1039/D0TC02898C">An insight into de Vries behaviour of smectic liquid crystals from atomistic molecular dynamics simulations<br><em>J. Mater. Chem. C</em>, 2020 ,<strong>8</strong> , 13040-13052</a> 
 
   <p align="center">
   <img width="300" src="https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D0TC02898C&imageInfo.ImageIdentifier.Year=2020">
-</p>
+  </p>
 
-<a href ="https://doi.org/10.1039/D1MA00714A">Sub-layer rationale of anomalous layer-shrinkage from atomistic simulations of a fluorinated mesogen<br><em>Mater. Adv.</em>, 2022, <strong>3</strong>, 1212-1223</a>
-
-<p align="center">
-<img width="300" src="https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D1MA00714A&imageInfo.ImageIdentifier.Year=2022">
-</p>
 </details>
 
 ### Rationalising reactivity of bioorthogonal reagents
@@ -65,8 +66,62 @@ Design of ligands that selectively bind actinides over lanthanides is a challeng
   </p>
 </details>
 
-### Elucidating structure-property relationships in dye-dope liquid crystals
+### Elucidating structure-property relationships in dye-doped liquid crystals
 
+Liquid-crystal dye mixtures have many potential applications including smart windows, privacy glass, and low-power displays. However, the understanding of dye behaviour is such mixtures and rational design of systems with desirable characteristics is an area that has received relatively little attention from a computational perspective. Combining classical methods with ab-initio approaches enables experimental alignment behaviour to be understood, and provides a route by which improved systems can be designed.
+
+<details>
+  <summary>Papers</summary>
+
+  <a href ="https://doi.org/10.1080/02678292.2017.1333639">
+    Guest–host systems containing anthraquinone dyes with multiple visible transitions giving positive and negative dichroic order parameters: an assessment of principal molecular axes and computational methods
+    <br><em>Liq. Cryst.</em>, 2017, <strong>44>/strong>, 2029 - 2045</a> 
+
+  <p align="center">
+  <img width="300" src="https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/tlct20/2017/tlct20.v044.i12-13/02678292.2017.1333639/20171116/images/medium/tlct_a_1333639_uf0001_oc.jpg">
+  </p>
+    
+  <a href ="">
+    
+    <br></a> 
+
+  <p align="center">
+  <img width="300" src="">
+  </p>    
+    
+  <a href ="">
+    
+    <br></a> 
+
+  <p align="center">
+  <img width="300" src="">
+  </p>
+ 
+  <a href ="">
+    
+    <br></a> 
+
+  <p align="center">
+  <img width="300" src="">
+  </p>
+
+  <a href ="">
+    
+    <br></a> 
+
+  <p align="center">
+  <img width="300" src="">
+  </p>
+
+    
+  <a href ="">
+    
+    <br></a> 
+
+  <p align="center">
+  <img width="300" src="">
+  </p>
+</details>
 
 ## Methods
 ### Ab-initio methods
