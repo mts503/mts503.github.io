@@ -97,36 +97,46 @@ Liquid-crystal dye mixtures have many potential applications including smart win
   <img width="300" src="https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=C6CP05979A&imageInfo.ImageIdentifier.Year=2017">
   </p>
  
-  <a href ="">
-    
-    <br></a> 
+  <a href ="https://doi.org/10.1080/02678292.2016.1189613">
+    Dyes as guests in ordered systems: current understanding and future directions
+    <br><em>Liq. Cryst.</em>, 2016, <strong>43</strong>, 2363-2374</a> 
 
   <p align="center">
-  <img width="300" src="">
+  <img width="300" src="https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/tlct20/2016/tlct20.v043.i13-15/02678292.2016.1189613/20170131/images/medium/tlct_a_1189613_uf0001_oc.jpg">
   </p>
 
-  <a href ="">
-    
-    <br></a> 
+  <a href ="https://doi.org/10.1039/C6CP03823A">
+    Experimental and molecular dynamics studies of anthraquinone dyes in a nematic liquid-crystal host: a rationale for observed alignment trends
+    <br><em>Phys. Chem. Chem. Phys.</em>, 2016, <strong>18</strong> , 20651-20663</a> 
 
   <p align="center">
-  <img width="300" src="">
+  <img width="300" src="https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=C6CP03823A&imageInfo.ImageIdentifier.Year=2016">
   </p>
 
     
-  <a href ="">
-    
-    <br></a> 
+  <a href ="https://doi.org/10.1021/acs.jpcc.6b03607">
+    Molecular Design Parameters of Anthraquinone Dyes for Guest–Host Liquid-Crystal Applications: Experimental and Computational Studies of Spectroscopy, Structure, and Stability
+    <br><em>J. Phys. Chem. C</em>, 2016, <strong>120</strong>, 11151–11162</a> 
 
   <p align="center">
-  <img width="300" src="">
+  <img width="300" src="https://pubs.acs.org/cms/10.1021/acs.jpcc.6b03607/asset/images/medium/jp-2016-03607a_0019.gif">
+  </p>
+  
+  <a href ="https://doi.org/10.1002/chem.201406372">
+    Dyes in Liquid Crystals: Experimental and Computational Studies of a Guest–Host System Based on a Combined DFT and MD Approach
+    <br><em>Chem. Eur. J.</em>, 2015, <strong>21</strong> , 10123-10130</a> 
+
+  <p align="center">
+  <img width="300" src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/08f351de-9437-4f32-b3ef-5eb92b21b09d/mcontent.jpg">
   </p>
 </details>
 
-## Methods
-### Ab-initio methods
-Ab-initio calculations involve first-principles (or pseudo-first-principles) methods to calculate properties, typically of static molecules/systems. They can be used to predict molecular properties such structural energies, spectral observables (UV-vis, IR, Raman, NMR etc.). The methods are also well suited to calculating reaction pathways enabling, for example, the prediction or rationalisation of reaction products.
+<!--
+  <a href ="">
+    
+    <br></a> 
 
-### Classical methods
-Classical methods use quite drastic (but undoubtedly successful) assumptions to enable the simulation of "large" systems, i.e. systems comprising <i>ca</i>. 1000 atoms or more. Their relatie simplicity enables  systems to be simulated over time. This combination provides a means of calculating bulk properties (density, etc.) as well as calculating time-dependent properties (diffusion, etc.). Furthermore, external potentials may readily be applied to simulate properties such as tensile strength and to simulate rare events.
-
+  <p align="center">
+  <img width="300" src="">
+  </p>
+-->
