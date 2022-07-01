@@ -1,5 +1,5 @@
 theme: jekyll-theme-slate
-title: <table><tr><td>Mark Sims | research </td><td style="text-align:right"><img width="150" src="https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D0TC02898C&imageInfo.ImageIdentifier.Year=2020"></td></tr></table>
+title: <table style="width: 100%"><tr><td>Mark Sims | research </td><td style="text-align:right"><img width="150" src="https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D0TC02898C&imageInfo.ImageIdentifier.Year=2020"></td></tr></table>
 description: Computational chemistry at Northumbria
 
 social-network-links:
