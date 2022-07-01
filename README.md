@@ -17,7 +17,7 @@
   </tr>
  </table>
   
-
+<img width="300" src="https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D1MA00714A&imageInfo.ImageIdentifier.Year=2022" style="float: right">
 
 ## Current and previous research
 ### Modelling de Vries behaviour in liquid crystals
