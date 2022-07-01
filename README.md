@@ -61,7 +61,6 @@ _Contributors: Anthony Sayer, Anya Nelson, Sam Taylor, Lauren Gardiner_
   </p>
 </details>
 
-
 ### Elucidating structure-property relationships in dye-dope liquid crystals
 
 
