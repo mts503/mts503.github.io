@@ -18,7 +18,7 @@ Ferroelectric SmC* liquid crystals have the potential to be used widely in futur
 <details>
   <summary>Papers</summary>
 
-  <a href = https://doi.org/10.1039/D0TC02898C>An insight into de Vries behaviour of smectic liquid crystals from atomistic molecular dynamics simulations<br><i>J. Mater. Chem. C</i>, 2020,<b>8</b> , 13040-13052</a> 
+  <a href = "https://doi.org/10.1039/D0TC02898C">An insight into de Vries behaviour of smectic liquid crystals from atomistic molecular dynamics simulations<br><i>J. Mater. Chem. C</i>, 2020,<b>8</b> , 13040-13052</a> 
 
   <p align="center">
   <img width="300" src="https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D0TC02898C&imageInfo.ImageIdentifier.Year=2020">
@@ -51,7 +51,11 @@ _In collaboration with Dr Frank Lewis_
 
 _Contributors: Anthony Sayer, Anya Nelson, Sam Taylor, Lauren Gardiner_
 
+Exploring the Subtle Effect of Aliphatic Ring Size on Minor Actinide-Extraction Properties and Metal Ion Speciation in Bis-1,2,4-Triazine Ligands
 
+https://doi.org/10.1002/chem.201903685
+
+https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/ce3c2eea-b92a-44a5-8c1b-8763b35e2a5a/chem201903685-toc-0001-m.jpg
 
 ### Elucidating structure-property relationships in dye-dope liquid crystals
 
