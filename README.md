@@ -131,7 +131,7 @@ Liquid-crystal dye mixtures have many potential applications including smart win
   </p>
 </details>
 
-### Quantifying and understanding in self-organising systems using x-ray scattering
+### Quantifying and understanding self-organisation using x-ray scattering
 
 The quantification of alignment in self-organising systems is often not straightforward. X-ray scattering theoretically provides significantly more information than many other methods, but data processing can lead to significant errors that some of our work has addressed. Subtle changes in molecular structure can heavily influence the molecular organisation in liquid crystals; a combinination of x-ray scattering experiments with classical simulations is a powerful tool with which such influences can be quantified and understood at a molecular and sub-molecular level.
 
