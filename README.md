@@ -51,8 +51,15 @@ _In collaboration with Dr Frank Lewis_
 
 _Contributors: Anthony Sayer, Anya Nelson, Sam Taylor, Lauren Gardiner_
 
+
+
 ### Elucidating structure-property relationships in dye-dope liquid crystals
 
+<details>
+  <summary>Papers</summary>
+  
+  
+</details>
 
 ## Methods
 ### Ab-initio methods
