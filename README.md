@@ -8,7 +8,7 @@
 <!--[//]: # (**Bold**; _Italic_; `Code`)-->
 
 <!--[//]: # ( [Link](url); ![Image](src) )-->
-<table style="width: 100%">
+<table style="width: 100%; border: none">
   <tr>
     <td>1
     </td>
