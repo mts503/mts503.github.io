@@ -9,8 +9,6 @@
 
 <!--[//]: # ( [Link](url); ![Image](src) )-->
 
-![Image](images/email.png)
-
 <div>
 
 <img width="200" src="https://northumbria-cdn.azureedge.net/-/media/people/staff/departments/applied-sciences/mark-sims.jpg?modified=20181029141931" style="float: right">
