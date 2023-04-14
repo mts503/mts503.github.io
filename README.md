@@ -83,6 +83,14 @@ Liquid-crystal dye mixtures have many potential applications including smart win
 <details>
   <summary>Papers</summary>
 
+  <a href ="https://doi.org/10.1039/D3CP00178D">
+    Dyes for guest–host liquid crystal applications: a general approach to the rapid computational assessment of useful molecular designs
+    <br><em>Phys. Chem. Chem. Phys.</em>, 2023, <strong>25</strong>, 10367-10383</a> 
+
+  <p align="center">
+  <img width="300" src="https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D3CP00178D&imageInfo.ImageIdentifier.Year=2023">
+  </p>
+
   <a href ="https://doi.org/10.1080/02678292.2017.1333639">
     Guest–host systems containing anthraquinone dyes with multiple visible transitions giving positive and negative dichroic order parameters: an assessment of principal molecular axes and computational methods
     <br><em>Liq. Cryst.</em>, 2017, <strong>44</strong>, 2029-2045</a> 
@@ -139,6 +147,7 @@ Liquid-crystal dye mixtures have many potential applications including smart win
   <p align="center">
   <img width="300" src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/08f351de-9437-4f32-b3ef-5eb92b21b09d/mcontent.jpg">
   </p>
+  
 </details>
 
 ### Quantifying and understanding self-organisation using x-ray scattering
