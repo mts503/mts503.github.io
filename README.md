@@ -13,7 +13,7 @@
 
 <img width="200" src="https://northumbria-cdn.azureedge.net/-/media/people/staff/departments/applied-sciences/mark-sims.jpg?modified=20181029141931" style="float: right">
   
-I am currently a Senior Lecturer in Computational Chemistry in the Department of Applied Sciences at Northumbria University.<br><br>
+I am currently an Assistant Professor in Computational Chemistry in the Department of Applied Sciences at Northumbria University.<br><br>
 
 I obtained my PhD from the University of York in 2015 where I was subsequently appointed a Postdoctoral Research Associate with the groups of Dr. John Moore and Prof. John Goodby in 2015, working on combining experimental and computational studies of ordered systems in order to develop design methods to aid in identifying synthetic targets. I was appointed to my current role at Northumbria University in 2017.
   
