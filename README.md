@@ -102,7 +102,7 @@ Liquid-crystal dye mixtures have many potential applications including smart win
     <br><em>Liq. Cryst.</em>, 2017, <strong>44</strong>, 2029-2045</a> 
 
   <p align="center">
-  <img width="300" src="https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/tlct20/2017/tlct20.v044.i12-13/02678292.2017.1333639/20171116/images/medium/tlct_a_1333639_uf0001_oc.jpg">
+  <img width="300" src="https://www.tandfonline.com/cms/asset/a814390b-4f2d-4e83-b477-f7b0bc5c5391/tlct_a_1333639_uf0001_oc.jpg">
   </p>
     
   <a href ="https://doi.org/10.1002/chem.201700055">
@@ -126,7 +126,7 @@ Liquid-crystal dye mixtures have many potential applications including smart win
     <br><em>Liq. Cryst.</em>, 2016, <strong>43</strong>, 2363-2374</a> 
 
   <p align="center">
-  <img width="300" src="https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/tlct20/2016/tlct20.v043.i13-15/02678292.2016.1189613/20170131/images/medium/tlct_a_1189613_uf0001_oc.jpg">
+  <img width="300" src="https://www.tandfonline.com/cms/asset/693509ae-3757-4112-abbe-6edb814edc1e/tlct_a_1189613_uf0001_oc.jpg">
   </p>
 
   <a href ="https://doi.org/10.1039/C6CP03823A">
@@ -176,7 +176,7 @@ The quantification of alignment in self-organising systems is often not straight
     <br><em>Liq. Cryst.</em>, 2017, <strong>46</strong>, 11-24</a> 
 
   <p align="center">
-  <img width="300" src="https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/tlct20/2019/tlct20.v046.i01/02678292.2018.1455227/20190218/images/medium/tlct_a_1455227_uf0001_b.gif">
+  <img width="300" src="https://www.tandfonline.com/cms/asset/530cadb3-f874-4463-b488-c4999d973fae/tlct_a_1455227_uf0001_b.gif">
   </p>
 
 </details>
