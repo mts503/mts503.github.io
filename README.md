@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/2f9ea4ae-6063-43d9-adaf-38137c0571fe)
 <!--[//]: # (comment)-->
 
 <!--[//]: # (# Header 1; ## Header 2; etc.)-->
