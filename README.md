@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/2f9ea4ae-6063-43d9-adaf-38137c0571fe)
 <!--[//]: # (comment)-->
 
 <!--[//]: # (# Header 1; ## Header 2; etc.)-->
@@ -11,7 +11,7 @@
 
 <div>
 
-<img width="200" src="https://researchportal.northumbria.ac.uk/files-asset/169775979/photo2_med.jpg?w=160&f=webp" style="float: right">
+<img width="200" src="https://northumbria-cdn.azureedge.net/-/media/corporate-website/pure/pure-sims-mark-7126ad53-c72d-45f0-967c-1da1b813c7da.jpg" style="float: right">
   
 I am currently an Assistant Professor in Computational Chemistry in the Department of Applied Sciences at Northumbria University.<br><br>
 
