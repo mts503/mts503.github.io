@@ -73,7 +73,7 @@ Bioorthogonal reactions are those that take place <em>in-vivo</em> without inter
 ### Calculating ligand binding in lanthanide extraction
 _In collaboration with Dr Frank Lewis_
 
-_Contributors: Anthony Sayer, Anya Nelson, Sam Taylor, Lauren Gardiner_
+_Contributors: Anthony Sayer, Anya Nelson, Sam Taylor, Lauren Gardiner, Maddie Gilbey_
 
 Design of ligands that selectively bind actinides over lanthanides is a challenging problem. Use of ab-initio methods to calculate binding energies can aid sythetic chemists in understanding ligand behaviour and in designing new, improved materials.
 
