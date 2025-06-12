@@ -80,6 +80,12 @@ Design of ligands that selectively bind actinides over lanthanides is a challeng
 <details>
   <summary>Papers</summary>
 
+  <a href ="https://doi.org/10.1002/open.202400306">Evaluation of Multidentate Ligands Derived from Ethyl 1,2,4-triazine-3-carboxylate Building Blocks as Potential An(III)-Selective Extractants for Nuclear Reprocessing<br><em>ChemistryOpen</em>, 2025, <strong>14</strong> , e202400306</a> 
+
+  <p align="center">
+  <img width="300" src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/8c75c80f-9eaa-4530-bae6-1fb6d1bfeb3f/open202400306-toc-0001-m.jpg">
+  </p>
+
   <a href ="https://doi.org/10.1002/chem.201903685">Exploring the Subtle Effect of Aliphatic Ring Size on Minor Actinide-Extraction Properties and Metal Ion Speciation in Bis-1,2,4-Triazine Ligands<br><em>Chem. Eur. J.</em>, 2020, <strong>26</strong> , 428-437</a> 
 
   <p align="center">
