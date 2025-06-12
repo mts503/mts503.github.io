@@ -51,7 +51,7 @@ Bioorthogonal reactions are those that take place <em>in-vivo</em> without inter
 <details>
   <summary>Papers</summary>
   
-  <a href ="https://doi.org/10.1039/D4DT01499E">Annealing 1,2,4-triazine to iridium(iii) complexes induces luminogenic behaviour in bioorthogonal reactions with strained alkynes<br><em>Dalton Trans.</em>, 2024</a> 
+  <a href ="https://doi.org/10.1039/D4DT01499E">Annealing 1,2,4-triazine to iridium(iii) complexes induces luminogenic behaviour in bioorthogonal reactions with strained alkynes<br><em>Dalton Trans.</em>, 2024, <strong>53</strong>, 15501 </a> 
 
   <p align="center">
   <img width="300" src="https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D4DT01499E&imageInfo.ImageIdentifier.Year=2024">
