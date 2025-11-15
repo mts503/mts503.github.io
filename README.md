@@ -50,6 +50,12 @@ Bioorthogonal reactions are those that take place <em>in-vivo</em> without inter
 
 <details>
   <summary>Papers</summary>
+
+  <a href ="DOI	https://doi.org/10.1039/D5OB01512J">Pyreno-1,2,4-triazines as multifunctional luminogenic click reagents<br><em>Org. & Biomol. Chem.</em>, 2025, <strong>23</strong>, 10127-10134</a> 
+
+  <p align="center">
+  <img width="300" src="https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D5OB01512J&imageInfo.ImageIdentifier.Year=2025">
+  </p>
   
   <a href ="https://doi.org/10.1039/D4DT01499E">Annealing 1,2,4-triazine to iridium(iii) complexes induces luminogenic behaviour in bioorthogonal reactions with strained alkynes<br><em>Dalton Trans.</em>, 2024, <strong>53</strong>, 15501 </a> 
 
