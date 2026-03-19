@@ -19,7 +19,7 @@ I obtained my PhD from the University of York in 2015 where I was subsequently a
 </div>
 
 ## Current and previous research
-Sections below list largely academic research. Other industry-focussed research projects include collaborations with Akzo Nobel and Palintest.
+Sections below list largely academic research. Other industry-focussed research projects include collaborations with AkzoNobel and Palintest.
 
 ### Rationalising reactivity of bioorthogonal reagents
 _In collaboration with Dr Valery Kozhevnikov_
