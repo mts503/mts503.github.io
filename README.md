@@ -31,25 +31,25 @@ Bioorthogonal reactions are those that take place <em>in-vivo</em> without inter
   <a href ="DOI	https://doi.org/10.1039/D5OB01512J">Pyreno-1,2,4-triazines as multifunctional luminogenic click reagents<br><em>Org. & Biomol. Chem.</em>, 2025, <strong>23</strong>, 10127-10134</a> 
 
   <p align="center">
-  <img width="300" src="https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D5OB01512J&imageInfo.ImageIdentifier.Year=2025">
+  <img width="300" img src="images/bioorth_4.png">
   </p>
   
   <a href ="https://doi.org/10.1039/D4DT01499E">Annealing 1,2,4-triazine to iridium(iii) complexes induces luminogenic behaviour in bioorthogonal reactions with strained alkynes<br><em>Dalton Trans.</em>, 2024, <strong>53</strong>, 15501 </a> 
 
   <p align="center">
-  <img width="300" src="https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D4DT01499E&imageInfo.ImageIdentifier.Year=2024">
+  <img width="300" src="images/bioorth_3.png">
   </p>
 
   <a href ="https://doi.org/10.1039/D3DT01451G">Catching up with tetrazines: coordination of Re(i) to 1,2,4-triazine facilitates an inverse electron demand Diels–Alder reaction with strained alkynes to a greater extent than in corresponding 1,2,4,5-tetrazines<br><em>Dalton Trans.</em>, 2023, <strong>52</strong> , 10927-10932</a> 
 
   <p align="center">
-  <img width="300" src="https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D3DT01451G&imageInfo.ImageIdentifier.Year=2023">
+  <img width="300" src="images/bioorth_2.png"">
   </p>
 
   <a href ="https://doi.org/10.1039/C9CC06828G">Iridium(iii) complexes of 1,2,4-triazines as potential bioorthogonal reagents: metal coordination facilitates luminogenic reaction with strained cyclooctynes<br><em>Chem. Commun.</em>, 2019, <strong>55</strong> , 14283-14286</a> 
 
   <p align="center">
-  <img width="300" src="https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=C9CC06828G&imageInfo.ImageIdentifier.Year=2019">
+  <img width="300" src="images/bioorth_1.png"">
   </p>
 </details>
 
