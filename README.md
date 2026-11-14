@@ -43,13 +43,13 @@ Bioorthogonal reactions are those that take place <em>in-vivo</em> without inter
   <a href ="https://doi.org/10.1039/D3DT01451G">Catching up with tetrazines: coordination of Re(i) to 1,2,4-triazine facilitates an inverse electron demand Diels–Alder reaction with strained alkynes to a greater extent than in corresponding 1,2,4,5-tetrazines<br><em>Dalton Trans.</em>, 2023, <strong>52</strong> , 10927-10932</a> 
 
   <p align="center">
-  <img width="300" src="images/bioorth_2.png"">
+  <img width="300" src="images/bioorth_2.png">
   </p>
 
   <a href ="https://doi.org/10.1039/C9CC06828G">Iridium(iii) complexes of 1,2,4-triazines as potential bioorthogonal reagents: metal coordination facilitates luminogenic reaction with strained cyclooctynes<br><em>Chem. Commun.</em>, 2019, <strong>55</strong> , 14283-14286</a> 
 
   <p align="center">
-  <img width="300" src="images/bioorth_1.png"">
+  <img width="300" src="images/bioorth_1.png">
   </p>
 </details>
 
@@ -64,13 +64,13 @@ Ferroelectric SmC* liquid crystals have the potential to be used widely in futur
   <a href ="https://doi.org/10.1039/D1MA00714A">Sub-layer rationale of anomalous layer-shrinkage from atomistic simulations of a fluorinated mesogen<br><em>Mater. Adv.</em>, 2022, <strong>3</strong>, 1212-1223</a>
 
   <p align="center">
-  <img width="300" src="https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D1MA00714A&imageInfo.ImageIdentifier.Year=2022">
+  <img width="300" src="images/devries_2.png">
   </p>  
   
   <a href = "https://doi.org/10.1039/D0TC02898C">An insight into de Vries behaviour of smectic liquid crystals from atomistic molecular dynamics simulations<br><em>J. Mater. Chem. C</em>, 2020 ,<strong>8</strong> , 13040-13052</a> 
 
   <p align="center">
-  <img width="300" src="https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D0TC02898C&imageInfo.ImageIdentifier.Year=2020">
+  <img width="300" src="images/devries_1.png">
   </p>
 
 </details>
