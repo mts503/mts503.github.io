@@ -8,12 +8,6 @@
 
 <!--[//]: # ( [Link](url); ![Image](src) )-->
 
-<div>
-
-<img width="200" src="https://northumbria-cdn.azureedge.net/-/media/corporate-website/pure/pure-sims-mark-7126ad53-c72d-45f0-967c-1da1b813c7da.jpg" style="float: right">
-  
-  
-</div>
 
 ## Current and previous research
 Sections below list largely academic research. Other industry-focussed research projects include collaborations with AkzoNobel and Palintest.
